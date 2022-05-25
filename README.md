@@ -7,6 +7,9 @@ Python 3.9.13
 https://water2litter.net/rum/post/python_redmine_control/
 https://qiita.com/flcn-x/items/89e8f709277c9fbf6275
 
+**VS code에서 가상환경 구축하는 방법**
+https://mr-spock.tistory.com/19
+
 **명령어 정리**
 - 가상 환경 만들기
   `python3 -m venv getRedmineTicketStatus_venv`
