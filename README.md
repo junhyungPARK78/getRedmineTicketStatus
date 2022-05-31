@@ -1,4 +1,4 @@
-# isWebsiteAlive
+# getRedmineTicketStatus
 
 **파이썬 버전**
 Python 3.9.13
